@@ -1,0 +1,5 @@
+almond
+coursier
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
